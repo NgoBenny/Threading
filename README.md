@@ -1,6 +1,6 @@
 # Threading
 
-Scraped the CSV data file and stored the data in SQLite database
+Scraped the CSV data file from this website: https://gml.noaa.gov/aggi/aggi.html, and stored the data in SQLite database
 
 Created 6 agents to handle annual data. These agents extract the yearly data from 1990-2019
 
